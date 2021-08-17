@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time-Table</title>
+    <link rel="stylesheet" href="front_style.css">
+</head>
+
+<body>
+    <p class="heading1">
+        Time table 2021-22
+    </p>
+    <p class="heading2">
+        Batch '20 : Odd semester
+    </p>
+    <br>    
+    <table align="center">
+        <tr>
+            <td class="Main_row_corner">Time \ Day</td>
+            <td class = "Main_row_elements2">Monday</td>
+            <td class = "Main_row_elements2">Tuesday</td>
+            <td class = "Main_row_elements2">Wednesday</td>
+            <td class = "Main_row_elements2">Thursday</td>
+            <td class = "Main_row_elements2">Friday</td>
+        </tr>
+        <tr>
+            <td class="Main_row_elements2">8 - 9 am</td>
+            <td><a href="https://iitmandi.webex.com/webappng/sites/iitmandi/dashboard/pmr/nkn?siteurl=iitmandi" target = "_default">IC240(MRB)</a></td>               
+            <td>free</td>
+            <td><a href= "https://www.youtube.com/playlist?list=PLtpXkKaqQyzZuszgFAQK6_yHqDgds5kbr" target = "_default">IC260(SnS)</a></td>
+            <
+        </tr>
+        <tr>
+            <td class="Main_row_elements2">9 - 10 am</td>
+                <td><a href= "https://iitmandi.webex.com/iitmandi/j.php?MTID=md6c51146df2852b0bb8b4df77939f7e8" target = "_default">IC272(DS-3)</a></td>
+                <td><a href= "https://www.youtube.com/playlist?list=PLtpXkKaqQyzZuszgFAQK6_yHqDgds5kbr" target = "_default">IC260(SnS)</a><br><a href="https://meet.google.com/qmf-womq-svk" target = "_default">CE201(Surveying)</a></td>
+                <td><a href= "https://meet.google.com/nwe-anzt-tfi" target = "_default">CS202(DSA)</a>/<a href="https://docs.google.com/spreadsheets/d/1GnoiWsPgwAaxp4bS7olrm8lR9C_MKIbK7xZjIU-DBEU/edit?usp=sharing" target = "_default">EE210(DSD)</a><br><a href="https://meet.google.com/vgh-bvco-rpk?authuser=0" target = "_default">BE201(Cell)</a>/<a href="https://meet.google.com/vrt-jwaz-kyw" target = "_default">IC121(PNW)</a></td>
+                <td><a href= "https://meet.google.com/lookup/h2revirlcu" target = "_default">IC136(BioTech)</a>/<a href = "http://meet.google.com/nzu-mrjc-mhz" target = "_default">HS352(German-2)</a><br><a href="https://docs.google.com/spreadsheets/d/1GnoiWsPgwAaxp4bS7olrm8lR9C_MKIbK7xZjIU-DBEU/edit?usp=sharing" target = "_default">EE203(NT)</a></td>
+                <td><a href= "https://iitmandi.webex.com/meet/nkn" target = "_default">IC240(MRB)</a><br><a href="https://docs.google.com/spreadsheets/d/1GnoiWsPgwAaxp4bS7olrm8lR9C_MKIbK7xZjIU-DBEU/edit?usp=sharing" target = "_default">EE311(Device Electro)</a></td>
+        </tr>
+        <tr>
+            <td class="Main_row_elements2">10 - 11 am</td>
+                <td><a href="https://meet.google.com/rvb-dupx-wyr" target = "_default">EP301(EM-2)</a><br><a href = "https://zoom.us/join" target="_blank">CE251(Hydraulics)</a></td>
+                <td><a href= "https://meet.google.com/vtu-jekf-ivp?pli=1&authuser=0" target = "_default">CS451(Game-design)</a><br><a href= "http://meet.google.com/bdu-oqso-hfv" target = "_default">HS342(German-1)</a></td>
+                <td><a href= "https://iitmandi.webex.com/meet/nkn" target = "_default">IC240(MRB)</a></td>
+                <td><a href= "https://meet.google.com/fvw-vajc-cfn?pli=1&authuser=1" target = "_default">CS208(MFoCS)</a>/<a href="https://meet.google.com/ptz-ebct-dgg" target = "_default">PH301(Quantum)</a><br><a href = "http://meet.google.com/bye-wfip-nhh">BE202(Biochem)</a></td>
+                <td><a href= "https://meet.google.com/nwe-anzt-tfi" target = "_default">CS202(DSA)</a>/<a href="https://docs.google.com/spreadsheets/d/1GnoiWsPgwAaxp4bS7olrm8lR9C_MKIbK7xZjIU-DBEU/edit?usp=sharing" target = "_default">EE210(DSD)</a><br><a href="https://meet.google.com/vgh-bvco-rpk?authuser=0" target = "_default">BE201(Cell)</a>/<a href="https://meet.google.com/vrt-jwaz-kyw" target = "_default">IC121(PNW)</a></td>
+        </tr>
+        <tr>
+            <td class="Main_row_elements2">11 - 12 am</td>
+                <td><a href= "https://meet.google.com/nwe-anzt-tfi" target = "_default">CS202(DSA)</a>/<a href="https://docs.google.com/spreadsheets/d/1GnoiWsPgwAaxp4bS7olrm8lR9C_MKIbK7xZjIU-DBEU/edit?usp=sharing" target = "_default">EE210(DSD)</a><br><a href="https://meet.google.com/vgh-bvco-rpk?authuser=0" target = "_default">BE201(Cell)</a>/<a href="https://meet.google.com/vrt-jwaz-kyw" target = "_default">IC121(PNW)</a></td>
+                <td><a href="https://meet.google.com/fvw-vajc-cfn?pli=1&authuser=1" target = "_default">CS208(MFoCS)</a>/<a href="https://meet.google.com/ptz-ebct-dgg" target = "_default">PH301(Quantum)</a><br><a href = "http://meet.google.com/bye-wfip-nhh">BE202(Biochem)</a></td>
+                <td><a href = "https://zoom.us/join" target="_blank">CE251(Hydraulics)</a><br><a href="https://meet.google.com/rvb-dupx-wyr" target = "_default">EP301(EM-2)</a></td>
+                <td><a href= "https://iitmandi.webex.com/iitmandi/j.php?MTID=md6c51146df2852b0bb8b4df77939f7e8" target = "_default">IC272(DS-3)</a></td>
+                <td><a href= "https://meet.google.com/sya-fadf-gxo?hs=224" target = "_default">HS105(BCS)</a>/<a href= "http://meet.google.com/bdu-oqso-hfv" target = "_default">HS342(German-1)</a><br><a href="https://meet.google.com/vtu-jekf-ivp?pli=1&authuser=0" target = "_default">CS451(Game-design)</a></td>
+        </tr>
+        <tr>
+            <td class="Main_row_elements2">12 - 1 pm</td> 
+                <td>Lunch</td>
+                <td><a href="https://docs.google.com/spreadsheets/d/1GnoiWsPgwAaxp4bS7olrm8lR9C_MKIbK7xZjIU-DBEU/edit?usp=sharing" target = "_default">EE311(Device Electro)</a></td>
+                <td colspan="3">Lunch Time</td>
+        </tr>
+        <tr>
+            <td class="Main_row_elements2">1 - 2 pm</td>
+                <td><a href= "https://meet.google.com/lookup/h2revirlcu" target = "_default">IC136(BioTech)</a>/<a href= "http://meet.google.com/nzu-mrjc-mhz" target = "_default">HS352(German-2)</a><br><a href="https://docs.google.com/spreadsheets/d/1GnoiWsPgwAaxp4bS7olrm8lR9C_MKIbK7xZjIU-DBEU/edit?usp=sharing" target = "_default">EE203(NT)</a></td>
+                <td><a href= "https://meet.google.com/nwe-anzt-tfi" target = "_default">CS202(DSA)</a><br><a href = "https://meet.google.com/vgh-bvco-rpk?authuser=0">BE201(Cell)</a></td>
+                <td><a href= "https://www.youtube.com/playlist?list=PLtpXkKaqQyzZuszgFAQK6_yHqDgds5kbr" target = "_default">IC260(SnS)</a><br><a href="https://meet.google.com/qmf-womq-svk" target = "_default">CE201(Surveying)</a></td>
+                <td><a href= "https://meet.google.com/xry-eucd-wju" target = "_default">HS105(BCS)</a>/<a href= "http://meet.google.com/bdu-oqso-hfv" target = "_default">HS342(German-1)</a><br><a href="https://meet.google.com/vtu-jekf-ivp?pli=1&authuser=0" target = "_default">CS451(Game-design)</a></td>
+                <td><a href = "http://meet.google.com/bye-wfip-nhh">BE202(Biochem)</a><a href="https://meet.google.com/ptz-ebct-dgg" target = "_default"><br>PH301(Quantum)</a></td>
+        </tr>
+        <tr>
+            <td class="Main_row_elements2">2 - 3 pm</td>
+                <td><a href= "https://meet.google.com/nwe-anzt-tfi" target = "_default">L- CS202(DSA)/</a><a href = "https://zoom.us/join" target="_blank">CE304P(Hyd.Lab)</a></td>
+                <td><a href="https://docs.google.com/spreadsheets/d/1GnoiWsPgwAaxp4bS7olrm8lR9C_MKIbK7xZjIU-DBEU/edit?usp=sharing" target = "_default">L-EE210P(DSD)</a></td>
+                <td><a href= "meet.google.com/ndb-xazu-zxb" target = "_default">CS207(ADP)</a></td>
+                <td><a href="https://meet.google.com/rvb-dupx-wyr" target = "_default">EP301(EM-2)</a><br><a href="https://docs.google.com/spreadsheets/d/1GnoiWsPgwAaxp4bS7olrm8lR9C_MKIbK7xZjIU-DBEU/edit?usp=sharing" target = "_default">EE311(Device Electro)</a></td>
+                <td><a href= "https://iitmandi.webex.com/iitmandi/j.php?MTID=m88b85ae9a75ebcc1fe3e07d4e0dad125" target = "_default">IC272(DS-3)</a></td>
+        </tr>
+        <tr>
+            <td class="Main_row_elements2">3 - 4 pm</td>
+                <td><a href= "https://meet.google.com/nwe-anzt-tfi" target = "_default">L- CS202(DSA)/</a><a href = "https://zoom.us/join" target="_blank">CE304P(Hyd.Lab)</a></td>
+                <td><a href="https://docs.google.com/spreadsheets/d/1GnoiWsPgwAaxp4bS7olrm8lR9C_MKIbK7xZjIU-DBEU/edit?usp=sharing" target = "_default">L-EE210P(DSD)</a></td>
+                <td><a href= "meet.google.com/ndb-xazu-zxb" target = "_default">CS207(ADP)</a></td>
+                <td>free</td>
+                <td><a href="https://meet.google.com/qmf-womq-svk" target = "_default">CE201(Surveying)</a></td>
+        </tr>
+        <tr>
+            <td class="Main_row_elements2">4 - 5 pm</td>
+                <td><a href= "https://meet.google.com/nwe-anzt-tfi" target = "_default">L- CS202(DSA)</a>/<a href = "https://zoom.us/join" target="_blank">CE304P(Hyd.Lab)</a></td>
+                <td><a href="https://docs.google.com/spreadsheets/d/1GnoiWsPgwAaxp4bS7olrm8lR9C_MKIbK7xZjIU-DBEU/edit?usp=sharing" target = "_default">L-EE210P(DSD)</a></td>
+                <td><a href= "meet.google.com/ndb-xazu-zxb" target = "_default">CS207(ADP)</a></td>
+                <td>free</td>
+                <td><a href= "https://meet.google.com/fvw-vajc-cfn?pli=1&authuser=1" target = "_default">CS208(MFoCS)</a>/<a href="https://meet.google.com/qmf-womq-svk" target = "_default">CE201(Surveying)</a></td>
+        </tr>
+        <tr>
+            <td class="Main_row_elements2">5 - 6 pm</td>
+                <td colspan="4">free</td>
+                <td><a href= "https://meet.google.com/fvw-vajc-cfn?pli=1&authuser=1" target = "_default">CS208(MFoCS)</a>/<a href="https://meet.google.com/qmf-womq-svk" target = "_default">CE201(Surveying)</a></td>
+        </tr>
+
+    </table>
+    <br><br>
+    <!-- <div class="footer">
+        @ created by Shubham Shukla
+    </div> -->
+</body>
+</html>
